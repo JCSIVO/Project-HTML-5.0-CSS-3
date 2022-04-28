@@ -1,0 +1,66 @@
+body {
+	font-family: calibri;
+	bacground-image: url(fondo.png)
+}
+
+h1{
+	text-align: center;
+	color:#FE2E9A;
+}
+
+
+h2{
+	color:#CC2EFA;	
+}
+
+
+.botonera_horizontal {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+ul.botonera_horizontal li {
+    display:inline;  
+    font-weight:bold;  
+    margin-right:50px;
+}
+ul.botonera_horizontal li a {
+    display:inline-block;
+    text-decoration:none;
+    color:#FF4000;
+    background-color:#F3F781;
+    width:200px;
+    height:50px;
+    margin-bottom:5px;
+    text-align:center;
+    line-height:50px;
+    border:1px solid #FFBF00;
+}
+ul.botonera_horizontal li a:hover {
+    background-color:#F5DA81;
+}
+ul.botonera_vertical {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+ul.botonera_vertical li {
+   height:50px;
+   width:200px;
+   margin-bottom:5px;
+   margin-top:10px;
+}
+ul.botonera_vertical li a {
+    display:block;
+    background-color:#F5A9E1;
+    text-align:center;
+    text-decoration:none;
+    font-weight:bold;
+    border:1px solid #6A0888;
+    line-height:50px;
+                
+}
+ul.botonera_vertical li a:hover {
+    background-color:#FE2E9A;
+}
+

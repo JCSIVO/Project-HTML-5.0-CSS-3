@@ -1,0 +1,19 @@
+EJERCICIOS DE HTML - UNIDAD 1
+
+Ventajas y desventajas de las herramientas HTML5 de desarrollo de APPs para Android multiplataforma
+
+Ventajas:
+
+Permite desarrollar aplicaciones que se adaptan fácilmente a distintas resoluciones, tamaños de pantallas, relaciones de aspecto y orientaciones.
+Permite potenciar las funcionalidades avanzadas, tales como el GPS, la cámara y el acelerómetro, en dispositivos modernos y brindar una experiencia de usuario adaptada al contexto en una amplia variedad de dispositivos, incluidos los smartphones y las tabletas electrónicas.
+Las aplicaciones móviles pueden usar los mismos canales de monetización y distribución que las aplicaciones nativas.
+Las aplicaciones no están restringidas por los marcos de las ventanas de los navegadores y se pueden ejecutar en modo de pantalla completa.
+Los usuarios tienen el control completo de los dispositivos y el uso del espacio de la pantalla.
+El código centralizado se puede modificar para que se interconecte con varios dispositivos.
+
+Desventajas:
+
+A veces, lleva tiempo tener listas las aplicaciones móviles debido a que los desarrolladores tienen que escribir código para cada plataforma.
+Los desarrolladores trabajan en lenguajes que no son nativos para las plataformas; por eso, la eficacia del código depende del motor de traducción. Sucede a menudo que las técnicas de codificación son ineficientes o que el código es redundante.
+La diferencia de tiempos de ejecución de las plataformas a menudo causa complicaciones en el desarrollo de aplicaciones móviles multiplataforma.
+El estándar HTML5 evolucionó en un período relativamente corto y ello produjo discrepancias en la implementación de atributos CSS, etiquetas HTML y API de JavaScript. A veces, estas características se comportan de manera diferente en plataformas distintas. Sin embargo, hay herramientas disponibles para resolver estas discrepancias.
